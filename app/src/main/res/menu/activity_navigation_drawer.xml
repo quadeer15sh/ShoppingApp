@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_log"
+            android:icon="@drawable/ic_format_align_justify_black_24dp"
+            android:title="Log"/>
+        <item
+            android:id="@+id/nav_erecipt"
+            android:icon="@drawable/ic_local_atm_black_24dp"
+            android:title="E-recipt"/>
+        <item
+            android:id="@+id/nav_signout"
+            android:title="Sign Out"/>
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"/>
+
+    </group>
+
+
+
+</menu>

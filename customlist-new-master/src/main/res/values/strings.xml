@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">custom list</string>
+    
+    <string-array name="paymentType">
+        <item>Netbanking</item>
+        <item>Card Payment</item>
+        <item>UPI</item>
+    </string-array>
+</resources>
